@@ -32,9 +32,9 @@ export const projects = [
     thumbnail: "/projects/ecommerce-main.jpg",
 
     images: [
-      "/projects/ecommerce-1.jpg",
-      "/projects/ecommerce-2.jpg",
-      "/projects/ecommerce-3.jpg",
+      "/projects/ecommerce/ecommerce-1.jpg",
+      "/projects/ecommerce/ecommerce-2.jpg",
+      "/projects/ecommerce/ecommerce-3.jpg",
     ],
 
     githubUrl: "https://github.com/talal-web/amazon-clone",
