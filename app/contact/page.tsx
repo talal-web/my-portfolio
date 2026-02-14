@@ -7,7 +7,9 @@ export default function ContactPage() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-gray-900 text-white px-6">
       <div className="max-w-xl w-full text-center bg-gray-800 p-10 rounded-2xl shadow-xl">
-        <h1 className="text-3xl font-bold mb-4">Let’s Work Together 🚀</h1>
+        <h1 className="text-3xl font-bold mb-4">
+          Your Vision, My Code – Let’s Create! 💻
+        </h1>
 
         <p className="text-gray-400 mb-8">
           Let’s discuss how I can help grow your business with a modern web
