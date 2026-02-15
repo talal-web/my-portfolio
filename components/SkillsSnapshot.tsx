@@ -4,7 +4,7 @@ export default function SkillsSnapshot() {
   const skills = {
     Frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     Backend: ["Node.js", "Express.js", "REST APIs", "Authentication"],
-    Tools: ["React Query", "MongoDB", "Git & GitHub", "Prisma (learning)"],
+    Tools: ["React Query", "MongoDB", "Git & GitHub", "Redux Toolkit"],
   };
 
   return (
